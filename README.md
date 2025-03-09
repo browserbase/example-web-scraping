@@ -1,6 +1,6 @@
 # Browserbase Web Scraping Example
 
-This repository contains examples of automating form submissions using Browserbase with different languages and frameworks. These examples accompany the [Browserbase documentation on automating form submissions](/automating-form-submissions).
+This repository contains examples of automating form submissions using Browserbase with different languages and frameworks. These examples accompany the [Browserbase documentation on automating web scraping](https://docs.browserbase.com/use-cases/scraping-website).
 
 ## Getting Started
 
