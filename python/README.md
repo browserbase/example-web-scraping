@@ -1,6 +1,6 @@
-# Python Form Fill Demo
+# Python Web Scraping Demo
 
-This demo shows how to automate form filling using Playwright and Browserbase.
+This demo shows how to automate web scraping using Playwright and Browserbase.
 
 ## Setup
 
